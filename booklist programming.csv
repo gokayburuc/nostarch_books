@@ -1,0 +1,127 @@
+,0,1,2,3
+0,Algorithmic Thinking,A Problem-Based Introduction,By Daniel Zingaro,$49.95
+1,An Artist's Guide to Programming,,By Jim Parker,$34.99
+2,"Art of Assembly Language, 2nd Edition",,By Randall Hyde,$59.95
+3,Art of Debugging,"with GDB, DDD, and Eclipse",By Norman Matloff and Peter Jay Salzman,$39.95
+4,Art of R Programming,A Tour of Statistical Software Design,By Norman Matloff,$39.95
+5,"Automate the Boring Stuff with Python, 2nd Edition",Practical Programming for Total Beginners,By Al Sweigart,$39.95
+6,"Autotools, 2nd Edition","A Practitioner's Guide to GNU Autoconf, Automake, and Libtool",By John Calcote,$49.95
+7,Bare Metal C,Embedded Programming for the Real World,By Stephen Oualline,$49.99
+8,Beyond the Basic Stuff with Python,Best Practices for Writing Clean Code,By Al Sweigart,$34.99
+9,Black Hat Go,Go Programming for Hackers and Pentesters,"By Tom Steele, Chris Patten, and Dan Kottmann",$39.95
+10,"Black Hat Python, 2nd Edition",Python Programming for Hackers and Pentesters,By Justin Seitz and Tim Arnold,$44.99
+11,"Book of CSS3, 2nd Edition",A Developer's Guide to the Future of Web Design,By Peter Gasston,$34.95
+12,Book of F#,Breaking Free with Managed Functional Programming,By Dave Fancher,$44.95
+13,Book of R,A First Course in Programming and Statistics,By Tilman M. Davies,$49.95
+14,Book of Ruby,A Hands-On Guide for the Adventurous,By Huw Collingbourne,$39.95
+15,Build an HTML5 Game,A Developer's Guide with CSS and JavaScript,By Karl Bunyan,$29.95
+16,C++ Crash Course,A Fast-Paced Introduction,By Josh Lospinoso,$59.95
+17,Clojure for the Brave and True,Learn the Ultimate Language and Become a Better Programmer,By Daniel Higginbotham,$34.95
+18,Code Craft,The Practice of Writing Excellent Code,By Pete Goodliffe,$44.95
+19,Coding in the Classroom,Why You Should Care About Teaching Computer Science,By Ryan Somma,$19.95
+20,Coding iPhone Apps for Kids,A Playful Introduction to Swift,By Gloria Winquist and Matt McCarthy,$29.95
+21,Coding with Minecraft,"Build Taller, Farm Faster, Mine Deeper, and Automate the Boring Stuff",By Al Sweigart,$29.95
+22,Computer Graphics from Scratch,A Programmer's Introduction to 3D Rendering,By Gabriel Gambetta,$49.99
+23,Cracking Codes with Python,An Introduction to Building and Breaking Ciphers,By Al Sweigart,$29.95
+24,Data Science for Business People,,By Bradford Tuckfield,$39.99
+25,Data Structures the Fun Way,From Binary Search to QuadTrees in 100 Cups of Coffee,By Jeremy Kubica,$29.99
+26,Data Visualization with JavaScript,,By Stephen A. Thomas,$39.95
+27,Deep Learning: A Visual Approach,,By Andrew Glassner,$99.99
+28,Dive Into Algorithms,A Pythonic Adventure for the Intrepid Beginner,By Bradford Tuckfield,$39.95
+29,Dive Into Systems,A Gentle Introduction to Computer Systems,"By Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb",$59.99
+30,Doing Math with Python,"Use Programming to Explore Algebra, Statistics, Calculus, and More!",By Amit Saha,$29.95
+31,Effective C,An Introduction to Professional C Programming,By Robert C. Seacord,$49.95
+32,"Eloquent JavaScript, 3rd Edition",A Modern Introduction to Programming,By Marijn Haverbeke,$39.95
+33,Functional Programming for Physics Geeks,,By Scott Walck,$49.99
+34,Game Hacking,Developing Autonomous Bots for Online Games,By Nick Cano,$44.95
+35,GNU Make Book,,By John Graham-Cumming,$34.95
+36,Gray Hat Python,Python Programming for Hackers and Reverse Engineers,By Justin Seitz,$39.95
+37,Hardcore Programming for Mechanical Engineers,Build Engineering Applications from Scratch,By Angel Sola Orbaiceta,$59.99
+38,Hello Web Design,Design Fundamentals and Shortcuts for Non-Designers,By Tracy Osborn,$24.99
+39,How Computers Really Work,A Hands-On Guide to the Inner Workings of the Machine,By Matthew Justice,$39.95
+40,If Hemingway Wrote JavaScript,,By Angus Croll,$19.95
+41,Impractical Python Projects,Playful Programming Activities to Make You Smarter,By Lee Vaughan,$29.95
+42,"Invent Your Own Computer Games with Python, 4th Edition",,By Al Sweigart,$29.95
+43,JavaScript Crash Course,,By Nick Morgan,$34.99
+44,JavaScript for Kids,A Playful Introduction to Programming,By Nick Morgan,$34.95
+45,Land of Lisp,"Learn to Program in Lisp, One Game at a Time!","By Conrad Barski, M.D.",$49.95
+46,Learn Java the Easy Way,A Hands-On Introduction to Programming,By Bryson Payne,$29.95
+47,Learn Python Visually,Creative Coding with Processing.py,By Tristan Bunn,$49.99
+48,Learn to Code by Solving Problems,A Python Programming Primer,By Daniel Zingaro,$34.99
+49,Learn to Program with App Inventor,A Visual Introduction to Building Apps,By Lyra Blizzard Logan,$24.95
+50,Learn to Program with Minecraft,Transform Your World with the Power of Python,By Craig Richardson,$29.95
+51,Learn to Program with Small Basic,"An Introduction to Programming with Games, Art, Science, and Math",By Majed Marji and Ed Price,$34.95
+52,Learn You a Haskell for Great Good!,A Beginner's Guide,By Miran Lipovača,$44.95
+53,Learn You Some Erlang for Great Good!,A Beginner's Guide,By Fred Hebert,$49.95
+54,Linux Programming Interface,A Linux and UNIX System Programming Handbook,By Michael Kerrisk,$99.95
+55,Machine Learning for Kids,A Project-Based Introduction to Artificial Intelligence,By Dale Lane,$34.95
+56,Make Python Talk,Build Apps with Voice Control and Speech Recognition,By Mark Liu,$39.99
+57,Make Your Own PuzzleScript Games!,,By Anna Anthropy,$17.95
+58,Make Your Own Scratch Games!,,By Anna Anthropy,$17.95
+59,Make Your Own Twine Games!,,By Anna Anthropy,$17.95
+60,Math Adventures with Python,An Illustrated Guide to Exploring Math with Code,By Peter Farrell,$29.95
+61,Mining Social Media,Finding Stories in Internet Data,By Lam Thuy Vo,$29.95
+62,Mission Python,Code a Space Adventure Game!,By Sean McManus,$29.95
+63,Modeling and Simulation in Python,Use Computation to Predict and Explain the World,By Allen B. Downey,$39.99
+64,Modern Web,"Multi-Device Web Development with HTML5, CSS3, and JavaScript ",By Peter Gasston,$34.95
+65,MySQL Crash Course,,By Rick Silva,$49.99
+66,Natural Language Processing with Python and spaCy,A Practical Introduction,By Yuli Vasiliev,$39.95
+67,Network Programming with Go,Code Secure and Reliable Network Services from Scratch,By Adam Woodbeck,$49.99
+68,Object-Oriented Python,Master OOP by Building Games and GUIs,By Irv Kalb,$44.99
+69,Perl One-Liners,130 Programs That Get Things Done,By Peteris Krumins,$24.95
+70,PHP Crash Course,,By Matt Smith,$39.99
+71,PowerShell for Sysadmins,Workflow Automation Made Easy,By Adam Bertram,$29.95
+72,Practical Deep Learning,A Python-Based Introduction,By Ronald T. Kneusel,$59.95
+73,"Practical SQL, 2nd Edition",A Beginner’s Guide to Storytelling with Data,By Anthony DeBarros,$39.99
+74,Principles of Object-Oriented JavaScript,,By Nicholas C. Zakas,$24.95
+75,Programming with OpenSCAD,A Beginner's Guide to Coding 3D-Printable Objects,By Justin Gohde and Marius Kintel,$29.99
+76,"Python Crash Course, 2nd Edition","A Hands-On, Project-Based Introduction to Programming",By Eric Matthes,$39.95
+77,"Python Crash Course, 3rd Edition","A Hands-On, Project-Based Introduction to Programming",By Eric Matthes,$44.99
+78,Python Dash,,"By Adam Schroeder, Christian Mayer, and Ann Marie Ward",$34.99
+79,Python Flash Cards,"Syntax, Concepts, and Examples",By Eric Matthes,$27.95
+80,Python for Data Science,A Hands-On Introduction,By Yuli Vasiliev,$29.99
+81,Python for Kids,A Playful Introduction to Programming,By Jason R. Briggs,$34.95
+82,"Python for Kids, 2nd Edition",A Playful Introduction to Programming,By Jason R. Briggs,$34.99
+83,Python One-Liners,"Write Concise, Eloquent Python Like a Professional",By Christian Mayer,$39.95
+84,Python Playground,Geeky Projects for the Curious Programmer,By Mahesh Venkitachalam,$29.95
+85,Racket Programming the Fun Way,From Strings to Turing Machines,By James W. Stelly,$49.95
+86,Rails Crash Course,A No-Nonsense Guide to Rails Development,By Anthony Lewis,$34.95
+87,Real-World Python,A Hacker's Guide to Solving Problems with Code,By Lee Vaughan,$34.95
+88,Realm of Racket,"Learn to Program, One Game at a Time!","By Matthias Felleisen, David Van Horn, Conrad Barski, M.D., and Eight Students of Northeastern University",$39.95
+89,Ruby by Example,Concepts and Code,By Kevin C. Baird,$29.95
+90,Ruby Under a Microscope,An Illustrated Guide to Ruby Internals,By Pat Shaughnessy,$39.95
+91,Ruby Wizardry,An Introduction to Programming for Kids,By Eric Weinstein,$25.95
+92,Rust for Rustaceans,Idiomatic Programming for Experienced Developers,By Jon Gjengset,$39.99
+93,Scratch 3 Programming Playground,,By Al Sweigart,$24.95
+94,ScratchJr Coding Cards,Creative Coding Activities,By Marina Umaschi Bers and Amanda Sullivan,$24.95
+95,Serious Python,"Black-Belt Advice on Deployment, Scalability, Testing, and More ",By Julien Danjou,$34.95
+96,SparkFun Guide to Processing,Create Interactive Art with Code,By Derek Runberg,$29.95
+97,Strange Code,14 Esoteric Programming Languages to Make You Think,By Ronald T. Kneusel,$49.99
+98,Super Scratch Programming Adventure! (Scratch 3),,By The LEAD Project,$19.95
+99,TCP/IP Guide ,"A Comprehensive, Illustrated Internet Protocols Reference",By Charles M. Kozierok,$99.95
+100,Teach Your Kids to Code,A Parent-Friendly Guide to Python Programming,By Bryson Payne,$29.95
+101,The Art of 64-Bit Assembly,x86-64 Machine Organization and Programming,By Randall Hyde,$79.99
+102,The Art of Clean Code,Best Practices to Eliminate Complexity and Simplify Your Life,By Christian Mayer,$29.99
+103,The Art of Machine Learning,Algorithms + Data + R,By Norman Matloff,$49.99
+104,The Art of WebAssembly,"Build Secure, Portable, High-Performance Applications",By Rick Battagline,$44.99
+105,The Big Book of Small Python Projects,81 Easy Practice Programs,By Al Sweigart,$39.99
+106,The Book of Kubernetes,A Hands-on Deep Dive into Container Technology,By Alan Hohn,$59.99
+107,The Coding Workbook,Build a Website with HTML & CSS,By Sam Taylor,$14.95
+108,The CS Detective,"An Algorithmic Tale of Crime, Conspiracy, and Computation",By Jeremy Kubica,$17.95
+109,The LEGO MINDSTORMS EV3 Laboratory,"Build, Program, and Experiment with Five Wicked Cool Robots!",By Daniele Benedettelli,$34.95
+110,"The Linux Command Line, 2nd Edition",A Complete Introduction,By William Shotts,$39.95
+111,The Missing README,A Guide for the New Software Engineer,By Chris Riccomini and Dmitriy Ryaboy,$24.99
+112,The Official Scratch Coding Cards (Scratch 3.0),Creative Coding Activities for Kids,By Natalie Rusk and the Scratch Team,$24.95
+113,The Recursive Book of Recursion,Ace the Coding Interview with Python and JavaScript,By Al Sweigart,$39.99
+114,The Rust Programming Language (Covers Rust 2018),,By Steve Klabnik and Carol Nichols,$39.95
+115,The Secret Life of Programs,Understand Computers -- Craft Better Code,By Jonathan E. Steinhart,$44.95
+116,Think Like a Programmer,An Introduction to Creative Problem Solving,By V. Anton Spraul,$34.95
+117,Understanding ECMAScript 6,The Definitive Guide for JavaScript Developers,By Nicholas C. Zakas,$34.95
+118,"Webbots, Spiders, and Screen Scrapers, 2nd Edition",A Guide to Developing Internet Agents with PHP/CURL,By Michael Schrenk,$39.95
+119,Wicked Cool Ruby Scripts,Useful Scripts That Solve Difficult Problems,By Steve Pugh,$29.95
+120,"Wicked Cool Shell Scripts, 2nd Edition","101 Scripts for Linux, OS X, and UNIX Systems",By Dave Taylor and Brandon Perry ,$34.95
+121,"Write Great Code, Volume 1, 2nd Edition",Understanding the Machine,By Randall Hyde,$49.95
+122,"Write Great Code, Volume 2, 2nd Edition","Thinking Low-Level, Writing High-Level",By Randall Hyde,$49.95
+123,"Write Great Code, Volume 3",Engineering Software,By Randall Hyde,$49.95
+124,Writing a C Compiler,Build a Real Programming Language from Scratch,By Nora Sandler,$59.99
+125,Your Linux Toolbox,,By Julia Evans,$29.95

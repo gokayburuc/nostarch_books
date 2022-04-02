@@ -1,0 +1,61 @@
+,0,1,2,3
+0,A Bug Hunter's Diary,A Guided Tour Through the Wilds of Software Security,By Tobias Klein,$39.95
+1,Android Security Internals,An In-Depth Guide to Android's Security Architecture,By Nikolay Elenkov,$49.95
+2,Attacking Network Protocols,"A Hacker's Guide to Capture, Analysis, and Exploitation",By James Forshaw,$49.95
+3,Black Hat Go,Go Programming for Hackers and Pentesters,"By Tom Steele, Chris Patten, and Dan Kottmann",$39.95
+4,"Black Hat Python, 2nd Edition",Python Programming for Hackers and Pentesters,By Justin Seitz and Tim Arnold,$44.99
+5,"Book of PF, 3rd Edition",A No-Nonsense Guide to the OpenBSD Firewall,By Peter N. M. Hansteen,$34.95
+6,Bug Bounty Bootcamp,The Guide to Finding and Reporting Web Vulnerabilities,By Vickie Li,$49.99
+7,Car Hacker's Handbook,A Guide for the Penetration Tester,By Craig Smith,$49.95
+8,Codebreaking,A Practical Guide,By Elonka Dunin and Klaus Schmeh,$29.99
+9,Crypto Dictionary,500 Tasty Tidbits for the Curious Cryptographer,By Jean-Philippe Aumasson,$24.99
+10,Cyberjutsu,Cybersecurity for the Modern Ninja,By Ben McCarty,$29.99
+11,Designing BSD Rootkits,An Introduction to Kernel Hacking,By Joseph Kong,$29.95
+12,Designing Secure Software,A Guide for Developers,By Loren Kohnfelder,$49.99
+13,Ethical Hacking,A Hands-on Introduction to Breaking In,By Daniel G. Graham,$49.99
+14,Foundations of Information Security,A Straightforward Introduction,By Jason Andress,$39.95
+15,Game Hacking,Developing Autonomous Bots for Online Games,By Nick Cano,$44.95
+16,Go H*ck Yourself,A Simple Introduction to Cyber Attacks and Defense,By Bryson Payne,$29.99
+17,Gray Hat C#,A Hacker's Guide to Creating and Automating Security Tools,By Brandon Perry,$39.95
+18,Gray Hat Python,Python Programming for Hackers and Reverse Engineers,By Justin Seitz,$39.95
+19,Hacking APIs,Breaking Web Application Programming Interfaces ,By Corey Ball,$59.99
+20,Hacking VoIP,"Protocols, Attacks, and Countermeasures",By Himanshu Dwivedi,$44.95
+21,"Hacking, 2nd Edition",The Art of Exploitation,By Jon Erickson,$49.95
+22,How Cybersecurity Really Works,A Hands-On Guide for Total Beginners,By Sam Grubb,$24.99
+23,How to Hack Like a Ghost,Breaching the Cloud,By Sparc Flow,$34.99
+24,How to Hack Like a Legend,Breaking Windows,By Sparc Flow,$29.99
+25,"IDA Pro Book, 2nd Edition",The Unofficial Guide to the World's Most Popular Disassembler,By Chris Eagle,$69.95
+26,iOS Application Security,The Definitive Guide for Hackers and Developers,By David Thiel,$49.95
+27,Linux Basics for Hackers,"Getting Started with Networking, Scripting, and Security in Kali",By OccupyTheWeb,$34.95
+28,Linux Firewalls,"Attack Detection and Response with iptables, psad, and fwsnort",By Michael Rash,$49.95
+29,Locksport,"A Hackers Guide to Lock Picking, Impressioning, and Safe Cracking","By Jos Weyers, Matt Burrough, Walter Belgers, BandEAtoZ, and Nigel K. Tolley",$54.99
+30,Malware Data Science,Attack Detection and Attribution,By Joshua Saxe with Hillary Sanders,$49.95
+31,Metasploit,The Penetration Tester's Guide,"By David Kennedy, Jim O’Gorman, Devon Kearns, and Mati Aharoni",$49.95
+32,Penetration Testing,A Hands-On Introduction to Hacking,By Georgia Weidman,$49.95
+33,Pentesting Azure Applications,The Definitive Guide to Testing and Securing Deployments,By Matt Burrough,$39.95
+34,PoC||GTFO,,By Manul Laphroaig,$40.00
+35,"PoC||GTFO, Volume 2",,By Manul Laphroaig,$40.00
+36,"PoC||GTFO, Volume 3",,By Manul Laphroaig,$40.00
+37,Practical Binary Analysis,"Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly",By Dennis Andriesse,$49.95
+38,Practical Forensic Imaging ,Securing Digital Evidence with Linux Tools,By Bruce Nikkel,$49.95
+39,Practical IoT Hacking,The Definitive Guide to Attacking the Internet of Things,"By Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods",$49.99
+40,Practical Linux Forensics,A Guide for Digital Investigators,By Bruce Nikkel,$59.99
+41,Practical Malware Analysis,The Hands-On Guide to Dissecting Malicious Software,By Michael Sikorski and Andrew Honig,$59.95
+42,"Practical Packet Analysis, 3rd Edition",Using Wireshark to Solve Real-World Network Problems,By Chris Sanders,$49.95
+43,Practical Social Engineering,A Primer for the Ethical Hacker,By Joe Gray,$34.99
+44,Practical Vulnerability Management,A Strategic Approach to Managing Cyber Risk,By Andrew Magnusson,$29.95
+45,Real-World Bug Hunting,A Field Guide to Web Hacking,By Peter Yaworski,$39.95
+46,Rootkits and Bootkits,Reversing Modern Malware and Next Generation Threats,"By Alex Matrosov, Eugene Rodionov, and Sergey Bratus",$49.95
+47,Serious Cryptography,A Practical Introduction to Modern Encryption,By Jean-Philippe Aumasson,$49.95
+48,Silence on the Wire,A Field Guide to Passive Reconnaissance and Indirect Attacks,By Michal Zalewski,$39.95
+49,Smart Girl's Guide to Privacy,Practical Tips for Staying Safe Online,By Violet Blue,$17.95
+50,Steal This Computer Book 4.0,What They Won't Tell You About the Internet,By Wallace Wang,$29.95
+51,Tangled Web,A Guide to Securing Modern Web Applications,By Michal Zalewski,$49.95
+52,The Art of Cyberwarfare,"An Investigator's Guide to Espionage, Ransomware, and Organized Cybercrime",By Jon DiMaggio,$39.99
+53,The Art of Mac Malware,The Guide to Analyzing Malicious Software,By Patrick Wardle,$49.99
+54,The Book of I²C,A Guide for Adventurers,By Randall Hyde,$49.99
+55,The Ghidra Book,The Definitive Guide,By Chris Eagle and Kara Nance,$59.95
+56,The Hardware Hacker (Paperback edition),Adventures in Making and Breaking Hardware,By Andrew “bunnie” Huang,$18.95
+57,The Hardware Hacking Handbook,Breaking Embedded Security with Hardware Attacks,By Colin O'Flynn and Jasper van Woudenberg,$49.99
+58,The Practice of Network Security Monitoring,Understanding Incident Detection and Response,By Richard Bejtlich,$49.95
+59,Web Security for Developers,,By Malcolm McDonald,$29.95
